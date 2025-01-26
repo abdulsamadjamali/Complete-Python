@@ -14,5 +14,5 @@ a3=([[[1,2,3,4]
 # for i in np.nditer(a2):
 #     print(i)
 # (nditer) even 100D array it in to one and then iterate
-for i in np.nditer(a3):
-    print(i)
+for j in np.nditer(a3):
+    print(j)
